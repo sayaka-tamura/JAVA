@@ -1,0 +1,7 @@
+Name1: DAEWOONG
+Name2: HIRO
+Name3: IINA
+Name4: JUHYON
+Name5: KOMIN
+Name6: SAYAKA
+Name7: SUN
